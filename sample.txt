@@ -1,0 +1,2 @@
+this is the text filewhich is being modified rn by me and now i am going to save it using vim. i am such a fucking pro man. really no cap
+:
